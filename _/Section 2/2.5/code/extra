@@ -1,0 +1,16 @@
+function * foo(x) {
+    while (true) {
+        x = x * 2;
+        yield x;
+    }
+}
+
+var g = foo(2);
+
+
+
+function * list(){
+    for(i=0; i<= 10; i++){
+        yield i
+    }
+}

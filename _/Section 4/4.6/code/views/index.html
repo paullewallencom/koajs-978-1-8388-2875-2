@@ -1,0 +1,22 @@
+
+<div class="panel panel-info">
+    <div class="panel-heading">
+         <h2><%= title %></h2>
+    </div>
+    <div class="panel-body">
+            <% for(i=0;i<data.length;i++){%>
+            <div class="media">
+                    <div class="media-left">
+                      <img src="<%=data[i].image%>" class="media-object" style="width:60px">
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">
+                          <%=data[i].name%>
+                      </h4>
+                      <p><%=data[i].details%></p>
+                    </div>
+            </div>
+            <hr/>
+            <%}%>
+    </div>
+</div>

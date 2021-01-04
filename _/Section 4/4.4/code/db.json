@@ -1,0 +1,76 @@
+db.hotels.insertMany(
+    [
+    {
+    "id":1,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":2,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":3,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":4,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":5,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":6,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    }
+]
+)

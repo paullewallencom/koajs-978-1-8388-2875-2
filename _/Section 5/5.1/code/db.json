@@ -1,0 +1,76 @@
+db.hotels.insertMany(
+    [
+    {
+    "id":1,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":2,
+	"distance" : 23,
+	"name" : "Hotel Pennsylvania",
+	"city" : "New York",
+	"price" : 140,
+	"details" : "This Manhattan hotel is located across the street from Madison Square Garden and Penn Station. The hotel offers access to the adjacent fitness club which includes a gym and a tour desk with ticket services.",
+	"image" : "https://r-cf.bstatic.com/images/hotel/max1280x900/577/57772519.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":3,
+	"distance" : 10,
+	"name" : "Hotel Henri",
+	"city" : "New York",
+	"price" : 90,
+	"details" : "Situated in New York and with Flatiron Building reachable within 400 metres, Hotel Henri features express check-in and check-out, non-smoking rooms, a restaurant, free WiFi throughout the property and a fitness centre.",
+	"image" : "https://q-cf.bstatic.com/images/hotel/max1280x900/179/179767666.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":4,
+	"distance" : 40,
+	"name" : "Holiday Inn",
+	"city" : "New York",
+	"price" : 150,
+	"details" : "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced",
+	"image" : "https://image.ibb.co/eDQQwe/holiday_Inn_New_York.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":5,
+	"distance" : 40,
+	"name" : "Riu Plaza",
+	"city" : "New York",
+	"price" : 96,
+	"details" : "Located in New York, 100 m from Restaurant Row, Riu Plaza New York Times Square offers WiFi. The hotel has a terrace and fitness centre, and guests can enjoy a meal at the restaurant The Theater Buffet.",
+	"image" : "https://q-cf.bstatic.com/images/hotel/max1280x900/178/178773353.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    },
+    {
+    "id":6,
+	"distance" : 18,
+	"name" : "Luma Times Square",
+	"city" : "New York",
+	"price" : 189,
+	"details" : "Located 300 m from Times Square in New York, LUMA Hotel - Times Square features a restaurant and free WiFi throughout the property. Guests can enjoy the on-site bar.",
+	"image" : "https://q-cf.bstatic.com/images/hotel/max1280x900/843/84359747.jpg",
+	"rating" : "3.5",
+	"reviews" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+	"__v" : 0
+    }
+]
+)
